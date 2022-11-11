@@ -64,4 +64,4 @@ Download IU and MIMIC-CXR datasets, and place them in `data` folder.
 Shuxin Yang, Xian Wu, Shen Ge, S. Kevin Zhou, Li Xiao,Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment. 2022
 
 ## Contact
-If you have any problem with the code, please contact  Li Xiao(andrew.lxiao@gmail.com) or Shuxin Yang(aspenstarss@gmail.com).
+If you have any problem with the code, please contact Shuxin Yang(aspenstarss@gmail.com) or Li Xiao(andrew.lxiao@gmail.com).

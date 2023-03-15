@@ -61,7 +61,7 @@ Download IU and MIMIC-CXR datasets, and place them in `data` folder.
         You remove `--label_loss` or `--rank_loss` from the commonds.
 
 ## Citation
-Shuxin Yang, Xian Wu, Shen Ge, ZhuoZhao Zheng, S. Kevin Zhou, Li Xiao,Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment. Medical Image Analysis,2022
+Shuxin Yang, Xian Wu, Shen Ge, ZhuoZhao Zheng, S. Kevin Zhou, Li Xiao,Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment. Medical Image Analysis,2023
 
 ## Contact
 If you have any problem with the code, please contact Shuxin Yang(aspenstarss@gmail.com) or Li Xiao(andrew.lxiao@gmail.com).
